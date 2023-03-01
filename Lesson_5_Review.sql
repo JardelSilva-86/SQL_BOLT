@@ -1,4 +1,4 @@
-/*SQL Review: Simple SELECT Queries */
+/*SQL 5 Review: Simple SELECT Queries */
 
 /*
 1. List all the Canadian cities and their populations
