@@ -3,6 +3,7 @@
 /*
 1. Find the domestic and international sales for each movie.
 */
+SELECT 
 
 /*
 2. Show the sales numbers for each movie that did better internationally tarher than domestically.
